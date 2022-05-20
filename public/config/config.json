@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6Ab6D3143049B94f9a0fb0bABa9cb9940fB4C1A9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6Ab6D3143049B94f9a0fb0bABa9cb9940fB4C1A9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Parallel World",
+  "SYMBOL": "TPW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-parallel-world-idn",
+  "SHOW_BACKGROUND": true
+}
